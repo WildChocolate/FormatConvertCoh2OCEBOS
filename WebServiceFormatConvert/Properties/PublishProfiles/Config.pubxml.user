@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+您 Web 项目的发布/打包进程将使用此文件。您可以通过编辑此 MSBuild 文件
+来自定义该进程的行为。若要了解与此相关的详细信息，请访问 http://go.microsoft.com/fwlink/?LinkID=208121。
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\Local Webservice\Oceanair Service</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/WebServiceFormatConvert.dll">
+      <publishTime>02/06/2018 15:21:33</publishTime>
+    </File>
+    <File Include="OceanairConvertService.asmx">
+      <publishTime>02/06/2018 10:46:23</publishTime>
+    </File>
+    <File Include="SourceDoc/Message_COHCFSTRN_8685c08d-bb35-41c8-99c5-4a103699e69d.xml">
+      <publishTime>02/02/2018 14:30:42</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>02/06/2018 10:54:06</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

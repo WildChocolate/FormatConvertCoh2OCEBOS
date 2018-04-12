@@ -1,0 +1,8 @@
+c:\users\ekko.xu\documents\visual studio 2013\Projects\WebServiceFormatConvert\WebServiceFormatConvert\bin\WebServiceFormatConvert.dll.config
+c:\users\ekko.xu\documents\visual studio 2013\Projects\WebServiceFormatConvert\WebServiceFormatConvert\bin\WebServiceFormatConvert.dll
+c:\users\ekko.xu\documents\visual studio 2013\Projects\WebServiceFormatConvert\WebServiceFormatConvert\bin\WebServiceFormatConvert.pdb
+c:\users\ekko.xu\documents\visual studio 2013\Projects\WebServiceFormatConvert\WebServiceFormatConvert\obj\Release\WebServiceFormatConvert.csprojResolveAssemblyReference.cache
+c:\users\ekko.xu\documents\visual studio 2013\Projects\WebServiceFormatConvert\WebServiceFormatConvert\obj\Release\WebServiceFormatConvert.dll
+c:\users\ekko.xu\documents\visual studio 2013\Projects\WebServiceFormatConvert\WebServiceFormatConvert\obj\Release\WebServiceFormatConvert.pdb
+c:\users\ekko.xu\documents\visual studio 2013\Projects\WebServiceFormatConvert\WebServiceFormatConvert\obj\Release\WebServiceFormatConvert.Resource1.resources
+c:\users\ekko.xu\documents\visual studio 2013\Projects\WebServiceFormatConvert\WebServiceFormatConvert\obj\Release\WebServiceFormatConvert.csproj.GenerateResource.Cache
